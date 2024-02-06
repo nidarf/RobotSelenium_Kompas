@@ -14,7 +14,8 @@ Coba buatlah test automation dengan menggunakan site: kompas.com pada fitur:
 1. [Login user](https://github.com/nidarf/RobotSelenium_Kompas/blob/main/login.robot)
 2. [Search Berita](https://github.com/nidarf/RobotSelenium_Kompas/blob/main/searchtest.robot)
 
+<br>
 Dikerjakan oleh:
 
-**Nida Regita Fauzianti**
+**Nida Regita Fauzianti**<br>
 nidaregita@gmail.com
