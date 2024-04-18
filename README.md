@@ -19,4 +19,4 @@ Dikerjakan oleh:
 <br>
 
 **Nida Regita Fauzianti**<br>
-nidaregita@gmail.com
+nidaregitaf@gmail.com
